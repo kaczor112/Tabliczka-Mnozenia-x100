@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabliczka Mnożenia x100", "Tabliczka Mnożenia x100\Tabliczka Mnożenia x100.csproj", "{9CFF8937-71D0-467C-80EF-0A8F2DE11B61}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{945FDFCB-9566-42FF-9E9F-828734D09320}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CFF8937-71D0-467C-80EF-0A8F2DE11B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFF8937-71D0-467C-80EF-0A8F2DE11B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFF8937-71D0-467C-80EF-0A8F2DE11B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFF8937-71D0-467C-80EF-0A8F2DE11B61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {930F9A6F-E2E3-4630-A59E-1462391B067A}
+	EndGlobalSection
+EndGlobal

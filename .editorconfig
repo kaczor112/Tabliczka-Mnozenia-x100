@@ -1,0 +1,15 @@
+﻿[ "*.cs" ]
+
+# IDE0058: Wartość wyrażenia nie jest nigdy używana.
+dotnet_diagnostic.IDE0058.severity = none
+
+[*.cs]
+
+# IDE0011: Dodaj nawiasy klamrowe
+dotnet_diagnostic.IDE0011.severity = none
+
+# IDE0058: Wartość wyrażenia nie jest nigdy używana.
+dotnet_diagnostic.IDE0058.severity = none
+
+# CA1707: Identyfikatory nie powinny zawierać znaków podkreślenia
+dotnet_diagnostic.CA1707.severity = none
